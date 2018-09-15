@@ -12,7 +12,7 @@ I'd just like to say that we reached a point where we had 35,000 users and 20,00
 
 # Setup
 Please make sure you are running the latest version of Node.JS.
-First thing you'd want to do is clone the repository and edit config.json(get your bot token from [here](https://discordapp.com/developers/applications/). After that, open whatever terminal you use and run the following command:
+First thing you'd want to do is clone the repository and edit config.json(get your bot token from [here](https://discordapp.com/developers/applications/)). After that, open whatever terminal you use and run the following command:
 ```
 npm install
 ```
