@@ -3,7 +3,7 @@ Recently on Fortnite, a strange cube has appeared. It has been moving on an inte
 
 While this might be useless in a few weeks when the cube stops moving, I've decided to release this incase it ever comes in handy for whoever is trying to make a bot with similar commands.
 
-This format is not ideal just yet. It is great for a utility bot with multiple jobs, however I would've preferred if I had made an abstract class for each command.
+This format is not ideal just yet. It is great for a utility bot with multiple jobs, however I would've preferred if I had made an abstract class for the commands.
 
 # Statistics
 ![stats](https://jadbalout.com/cube.png)
