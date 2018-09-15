@@ -7,6 +7,7 @@ This format is not ideal just yet. It is great for a utility bot with multiple j
 
 # Statistics
 ![stats](https://jadbalout.com/cube.png)
+
 I'd just like to say that we reached a point where we had 35,000 users and 20,000 cached active users. We almost hit 200 users, however there is still time and it might happen. Thank you all for your amazing support.
 
 # Setup
