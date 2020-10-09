@@ -6,9 +6,8 @@ While this might be useless in a few weeks when the cube stops moving, I've deci
 This format is not ideal just yet. It is great for a utility bot with multiple jobs, however I would've preferred if I had made an abstract class for the commands.
 
 # Statistics
-![stats](https://jadbalout.com/cube.png)
 
-I'd just like to say that we reached a point where we had 35,000 users and 20,000 cached active users. We almost hit 200 users, however there is still time and it might happen. Thank you all for your amazing support.
+I'd just like to say that we reached a point where we had 35,000 users and 20,000 cached active users. We almost hit 200 servers, however there is still time and it might happen. Thank you all for your amazing support.
 
 # Setup
 Please make sure you are running the latest version of Node.JS.
